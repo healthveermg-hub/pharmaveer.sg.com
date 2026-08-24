@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://healthveermg-hub.github.io/pharmaveer.sg.com/sitemap.xml
